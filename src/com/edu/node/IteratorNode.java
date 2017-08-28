@@ -17,6 +17,7 @@ public class IteratorNode {
 	}
 	
 	public static class Node{
+		
 		List<Node> childrens;
 
 		public List<Node> getChildrens() {
