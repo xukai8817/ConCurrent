@@ -1,5 +1,6 @@
-package com.edu.chapter.five;
+package com.edu.service.cache.impl;
 
+import com.edu.service.cache.Computable;
 import java.math.BigInteger;
 
 public class ExpensiveFunction implements Computable<String, BigInteger> {
